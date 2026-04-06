@@ -106,5 +106,6 @@ I build polished, production-grade mobile apps and full stack systems — from p
 💬 I'm always open to collaborating on interesting projects and discussing new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadirali876/)
+[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadirali876@gmail.com)
 
 </div>
