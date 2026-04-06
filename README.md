@@ -77,16 +77,43 @@ I build polished, production-grade mobile apps and full stack systems — from p
 
 ---
 
-### 📊 GitHub Stats
+### 📱 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![Bano Lives](https://img.shields.io/badge/Bano_Lives-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)
+
+**Bano Lives**<br/>
+Live streaming & social platform<br/>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+[![GoZippRide](https://img.shields.io/badge/GoZippRide-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/gozippride/id6742736541)
+
+**GoZippRide** (iOS)<br/>
+Ride-hailing & transportation app<br/>
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+[![GoZippRide](https://img.shields.io/badge/GoZippRide-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fabindrive)
+
+**GoZippRide** (Android)<br/>
+Ride-hailing & transportation app<br/>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qadirali876&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qadirali876&theme=tokyonight&hide_border=true" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadirali876&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+*...and **15+ more** production apps on the App Store & Google Play*
 
 </div>
 
@@ -101,16 +128,6 @@ I build polished, production-grade mobile apps and full stack systems — from p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qadirali876/qadirali876/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/qadirali876/qadirali876/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
