@@ -1,13 +1,17 @@
 <div align="center">
 
-# Hey there, I'm Qadir Ali 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I'm+Qadir+Ali+%F0%9F%91%8B;Full+Stack+Mobile+Engineer" alt="Typing SVG" />
 
-### Full Stack Mobile Engineer
+<br/>
 
 I build polished, production-grade mobile apps and full stack systems — from pixel-perfect UIs to scalable cloud backends.
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadirali876/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qadirali876)
+
+![Profile Views](https://komarev.com/ghpvc/?username=qadirali876&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,9 +22,19 @@ I build polished, production-grade mobile apps and full stack systems — from p
 - 🚀 **15+ production apps** published on the App Store & Google Play
 - 📱 Specialized in **cross-platform mobile development** with React Native
 - 🏗️ Full stack experience spanning **frontend, backend, mobile apps & admin panels**
+- 🤖 Built **AI voice coach apps** and currently exploring AI tools
 - ☁️ Cloud infrastructure on **AWS** & **Google Cloud** with CI/CD pipelines
-- 🤖 Currently exploring **AI tools** and building AI-powered experiences
 - 🎮 Gamer & tech enthusiast — always researching what's next
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qadirali876&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -69,6 +83,34 @@ I build polished, production-grade mobile apps and full stack systems — from p
 
 <img src="https://github-readme-stats.vercel.app/api?username=qadirali876&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadirali876&theme=tokyonight&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadirali876&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qadirali876/qadirali876/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qadirali876/qadirali876/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/qadirali876/qadirali876/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
