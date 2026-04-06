@@ -28,16 +28,6 @@ I build polished, production-grade mobile apps and full stack systems — from p
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=qadirali876&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 **Mobile**
