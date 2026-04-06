@@ -79,39 +79,13 @@ I build polished, production-grade mobile apps and full stack systems — from p
 
 ### 📱 Featured Projects
 
-<div align="center">
+| Project | Platform | Link |
+|---------|----------|------|
+| **Bano Lives** — Live streaming & social platform | Android | [Play Store](https://play.google.com/store/apps/details?id=com.bano.live&hl=en) |
+| **GoZippRide** — Ride-hailing & transportation app | iOS | [App Store](https://apps.apple.com/us/app/gozippride/id6742736541) |
+| **GoZippRide** — Ride-hailing & transportation app | Android | [Play Store](https://play.google.com/store/apps/details?id=com.fabindrive) |
 
-<a href="https://play.google.com/store/apps/details?id=com.bano.live&hl=en">
-<img src="https://img.shields.io/badge/🎬_Bano_Lives-FF6B6B?style=for-the-badge&logoColor=white" height="40" />
-</a>
-<br/>
-<sub><b>Live Streaming & Social Platform</b></sub>
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.bano.live&hl=en">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28" />
-</a>
-
-<br/><br/>
-
-<a href="https://apps.apple.com/us/app/gozippride/id6742736541">
-<img src="https://img.shields.io/badge/🚗_GoZippRide-4ECDC4?style=for-the-badge&logoColor=white" height="40" />
-</a>
-<br/>
-<sub><b>Ride-Hailing & Transportation App</b></sub>
-<br/>
-<a href="https://apps.apple.com/us/app/gozippride/id6742736541">
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.fabindrive">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/+_15_More_Apps_Published-6AD3F7?style=for-the-badge&logoColor=white" height="30" />
-
-</div>
+> *...and **15+ more** production apps on the App Store & Google Play*
 
 ---
 
