@@ -79,41 +79,37 @@ I build polished, production-grade mobile apps and full stack systems — from p
 
 ### 📱 Featured Projects
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![Bano Lives](https://img.shields.io/badge/Bano_Lives-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.bano.live&hl=en)
-
-**Bano Lives**<br/>
-Live streaming & social platform<br/>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-[![GoZippRide](https://img.shields.io/badge/GoZippRide-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/gozippride/id6742736541)
-
-**GoZippRide** (iOS)<br/>
-Ride-hailing & transportation app<br/>
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-[![GoZippRide](https://img.shields.io/badge/GoZippRide-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fabindrive)
-
-**GoZippRide** (Android)<br/>
-Ride-hailing & transportation app<br/>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-*...and **15+ more** production apps on the App Store & Google Play*
+<a href="https://play.google.com/store/apps/details?id=com.bano.live&hl=en">
+<img src="https://img.shields.io/badge/🎬_Bano_Lives-FF6B6B?style=for-the-badge&logoColor=white" height="40" />
+</a>
+<br/>
+<sub><b>Live Streaming & Social Platform</b></sub>
+<br/>
+<a href="https://play.google.com/store/apps/details?id=com.bano.live&hl=en">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28" />
+</a>
+
+<br/><br/>
+
+<a href="https://apps.apple.com/us/app/gozippride/id6742736541">
+<img src="https://img.shields.io/badge/🚗_GoZippRide-4ECDC4?style=for-the-badge&logoColor=white" height="40" />
+</a>
+<br/>
+<sub><b>Ride-Hailing & Transportation App</b></sub>
+<br/>
+<a href="https://apps.apple.com/us/app/gozippride/id6742736541">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28" />
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.fabindrive">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="28" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/+_15_More_Apps_Published-6AD3F7?style=for-the-badge&logoColor=white" height="30" />
 
 </div>
 
