@@ -65,6 +65,11 @@ I build polished, production-grade mobile apps and full stack systems — from p
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Payments**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![In-App Purchases](https://img.shields.io/badge/In--App_Purchases-000000?style=flat-square&logo=apple&logoColor=white)
+
 ---
 
 ### 📱 Featured Projects
